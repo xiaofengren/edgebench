@@ -49,3 +49,4 @@ edgebench
 |   └─── yaml.sh (Library required for parsing `yaml` files shell scripts)
 |   └─── convert_to_wav.py (Convert audio files into particular `wav` format necessary for `pocketsphinx`)
 ```
+Corresponding paper can be found at https://arxiv.org/pdf/1811.05948.pdf
